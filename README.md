@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm a Grade 11 student from Ontario, Canada 🇨🇦
 
-I'm passionate about technology, cloud computing, and IT systems! I enjoy building fun projects using Raspberry Pi, old laptops, and networking tools. I’m also exploring cybersecurity and plan to dive into cloud platforms like AWS.
+I'm interested about tech, cloud, and IT systems! I enjoy building fun projects using Raspberry Pi, old laptops, and networking tools. I’m also exploring cybersecurity and plan to dive into cloud platforms like AWS.
 
 ---
 
