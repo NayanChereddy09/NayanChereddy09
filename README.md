@@ -32,4 +32,4 @@ I'm interested about tech, cloud, and IT systems! I enjoy building fun projects 
 
 ---
 
-Thanks for stopping by! Always learning, always building. 🚀
+Thanks for stopping by!!
